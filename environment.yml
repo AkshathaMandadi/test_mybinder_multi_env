@@ -1,8 +1,8 @@
-name: default-env
+name: alt-env
 channels:
   - defaults
 dependencies:
-  - python=3.8
-  - numpy
-  - pandas
+  - python=3.9
+  - matplotlib
+  - seaborn
   - jupyterlab
