@@ -1,3 +1,0 @@
-#!/bin/bash
-# Activate the environment
-source activate test-env  # or alt-env depending on the branch
