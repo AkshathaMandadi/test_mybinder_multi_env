@@ -1,4 +1,4 @@
-name: alt-env
+name: test-env
 channels:
   - defaults
 dependencies:
