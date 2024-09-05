@@ -1,0 +1,8 @@
+name: alt-env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - seaborn
+  - jupyterlab
