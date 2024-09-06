@@ -1,4 +1,4 @@
-name: default-env
+name: alt2-env
 channels:
   - defaults
 dependencies:
